@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RealHardStudy\bin\Debug\RealHardStudy.exe.config
+C:\Users\user\source\repos\RealHardStudy\bin\Debug\RealHardStudy.exe
+C:\Users\user\source\repos\RealHardStudy\bin\Debug\RealHardStudy.pdb
+C:\Users\user\source\repos\RealHardStudy\obj\Debug\RealHardStudy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RealHardStudy\obj\Debug\RealHardStudy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RealHardStudy\obj\Debug\RealHardStudy.exe
+C:\Users\user\source\repos\RealHardStudy\obj\Debug\RealHardStudy.pdb
